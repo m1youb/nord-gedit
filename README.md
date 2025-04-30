@@ -11,7 +11,7 @@ git clone https://github.com/m1youb/nord-gedit
 2. Copy the theme to the intended location:
 ```bash
 cd nord-gedit
-cp nord.xml ~/.local/share/libgedit-gtksourcebiew-300/styles/
+cp nord.xml ~/.local/share/libgedit-gtksourceview-300/styles/
 ```
 
 3. Select the Nord theme in gedit.
