@@ -16,4 +16,4 @@ cp nord.xml ~/.local/share/libgedit-gtksourcebiew-300/styles/
 
 3. Select the Nord theme in gedit.
 
-And Voilà. Enjoy your beautiful Gedit
+And Voilà. Enjoy your beautiful Gedit.
